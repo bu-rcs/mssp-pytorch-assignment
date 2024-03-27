@@ -9,7 +9,7 @@ statistics. Similar to the previous assignment you will predict whether a player
 in the 2023-2024 was selected as an Allstar. You will use the 2 datasets:
 
 - NBA 2022-2023 regular season stats with Allstars,
-- NBA 2023-2024 regular season stats with Allstars.
+- NBA 2023-2024 regular season stats.
 
 However, this time you will build a neural network as your classifier model.
 The features to train on are: Points, Assists, Rebounds, Steals, Blocks, and Turnovers.
